@@ -1,8 +1,12 @@
-### Hello Word, I'm Yan 👋
-<p>
-  
-  </P>
+### Hello Word, I'm Yan Avelino!
 
+ <a target="_blank" href="linkedin.com/in/yan-avelino-97378b190">
+        <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+      </a>
+      
+      <a target="_blank" href="https://api.whatsapp.com/send?phone=5511942409528">
+        <img align="lef" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+      </a>
 <!--
 **yanavelino/yanavelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
