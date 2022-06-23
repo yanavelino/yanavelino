@@ -11,6 +11,10 @@
    <a target="_blank" href="mailto:yanavelino.alencar@gmail.com">
         <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
       </a>
+ 
+      <a target="_blank" href="https://www.instagram.com/yan_avelino93/">
+                <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+                </a>
  <hr>
 <!--
 **yanavelino/yanavelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
